@@ -13,10 +13,10 @@ Still working on it. The code is very messy and unreadable, please wear goggles 
 
 ![ConfrenceRoom](Image/Breakfast.gif)
 
-![ConfrenceRoom](Image/dragon.gif)
+![ConfrenceRoom](Image/Dragon.gif)
 
 ## Converged Imgae
 
 **Conference Room**
 
-![Conveged](Image\Conveged.gif)
+![Conveged](Image/Converged.gif)
