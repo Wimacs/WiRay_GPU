@@ -19,4 +19,4 @@ Still working on it. The code is very messy and unreadable, please wear goggles 
 
 **Conference Room**
 
-![Conveged](Image/Converged.gif)
+![Conveged](Image/Converged.jpeg)
