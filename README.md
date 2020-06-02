@@ -7,13 +7,13 @@ Still working on it. The code is very messy and unreadable, please wear goggles 
 
 **Conference Room**
 
-![ConfrenceRoom](Image\ConfrenceRoom.gif)
+![ConfrenceRoom](Image/ConfrenceRoom.gif)
 
 **Breakfast Room**
 
-![ConfrenceRoom](Image\Breakfast.gif)
+![ConfrenceRoom](Image/Breakfast.gif)
 
-![ConfrenceRoom](Image\dragon.gif)
+![ConfrenceRoom](Image/dragon.gif)
 
 ## Converged Imgae
 
